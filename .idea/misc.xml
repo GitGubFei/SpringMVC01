@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$USER_HOME$/Desktop/CRM-master" />
+    <file type="web" url="file://$PROJECT_DIR$/ch01hellospringmvc" />
+    <file type="web" url="file://$PROJECT_DIR$/ch02-requestmapping" />
+    <file type="web" url="file://$PROJECT_DIR$/ch03-recevieparam" />
+    <file type="web" url="file://$PROJECT_DIR$/ch04-returnval" />
+    <file type="web" url="file://$PROJECT_DIR$/ch04-url-pattern" />
+    <file type="web" url="file://$PROJECT_DIR$/ch07-ssm" />
+    <file type="web" url="file://$PROJECT_DIR$/crm--master" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/ch01hellospringmvc/pom.xml" />
+        <option value="$PROJECT_DIR$/ch02-requestmapping/pom.xml" />
+        <option value="$PROJECT_DIR$/ch03-recevieparam/pom.xml" />
+        <option value="$PROJECT_DIR$/ch04-returnval/pom.xml" />
+        <option value="$PROJECT_DIR$/ch04-url-pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/ch07-ssm/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
